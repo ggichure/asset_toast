@@ -3,7 +3,7 @@
 A new flutter plugin project.
 
 ## Getting Started
-![](./sc.artgif.gif)  |
+![](https://github.com/ggichure/asset_toast/blob/master/sc/artgif.gif)  |
 # usage
 
 ```dart
