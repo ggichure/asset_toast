@@ -1,8 +1,7 @@
 name: asset_toast
 description: A reddit like toast asset toast.
 version: 1.0.1
-author: g.gichure@outlook.com
-homepage:
+homepage: https://github.com/ggichure/asset_toast
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
