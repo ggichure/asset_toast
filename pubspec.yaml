@@ -1,0 +1,29 @@
+name: asset_toast
+description: A reddit like toast asset toast.
+version: 1.0.1
+author: g.gichure@outlook.com
+homepage:
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# The following section is specific to Flutter.
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.ggichure.github.asset_toast
+        pluginClass: AssetToastPlugin
+      ios:
+        pluginClass: AssetToastPlugin
+
+  
