@@ -30,6 +30,10 @@ A new flutter plugin project.
 # contribute
 
 # support 
+# credits
+[github.com/illukinati](https://github.com/illukinati/card_ui_kit)
+
+[github.com/appdev](https://github.com/appdev/FlutterToast)
 
 
 
