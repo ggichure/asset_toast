@@ -4,3 +4,6 @@
 
 ## 1.0.2 
 fix breaking changes
+
+## 1.0.3
+hacky fix of center toast
