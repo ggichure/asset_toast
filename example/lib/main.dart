@@ -42,7 +42,7 @@ class _MyAppState extends State<MyHomePage> {
                     onPressed: () {
                       AssetToast.show("hello there", context,
                           asset: "assets/img.jpeg",
-                          duration: AssetToast.lengthShort,
+                          duration: AssetToast.lengthLong,
                           prefixBadge: Colors.red,
                           backgroundColor: Colors.blueGrey,
                           gravity: AssetToast.top,
